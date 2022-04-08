@@ -10,10 +10,86 @@
 - Chen Che Wei, also goes by the name Anderson, is a software engineer who specializes in **iOS**.
 - A witted and detail-oriented type perfectionist.
 
+---
+
+<p>
+  <img width="180px" height="180px" align='left' src="https://user-images.githubusercontent.com/62243142/162378492-4646be83-fb4f-4041-9f56-e0746db6bb5b.png">
+</p>
 
 
+<h3>A little bit about me</h3>
+
+I'm a cat person who currently stays in Taipei, Taiwan🇹🇼. <br>
+I can speak English and Mandarin fluently. <br>
+I have over 2 years of programing experience. <br>
+I've developed an app with over 167k users across 200+ countries. <br>
+
+<p>
+  <img width="50px" height="30px" align='left' src="https://user-images.githubusercontent.com/62243142/162382678-19a3a435-a328-4c7d-a9ce-a83e721137c3.gif">
+</p>
+<a href="https://apps.apple.com/tw/app/italkutalk-ai-recognition/id1263409577?l=en"><img style="height:30px;" src="https://img.shields.io/badge/-iTalkuTalk-468EE6?style=flat-square&logo=apple&logoColor=white"></a>
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=chenchewei&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,243949,23272D)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chenchewei&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<div align="center">
+  <a href="https://www.github.com/chenchewei" target="blank">
+    <img width=48% src="http://github-readme-streak-stats.herokuapp.com?user=chenchewei&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img width=48% src="https://github-readme-stats.vercel.app/api?username=chenchewei&include_all_commits=true&count_private=true&title_color=8CCEFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,231557,44107A">
+  </a>
+</div>
+
+<p align="center">
+    <img width="125px" src="https://komarev.com/ghpvc/?username=chenchewei&style=plastic"/>
+<!--     <img src="https://img.shields.io/github/followers/chenchewei?label=Followers"> -->
+</p>
+
+---
+
+<h3>Skills I have</h3>
+<p>
+  <a href="https://forums.swift.org/">
+  <img style="height:22px" alt="Swift" src="https://img.shields.io/badge/-Swift-FF7802?style=flat&logo=swift&logoColor=white"></a>
+  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html">
+  <img style="height:22px" alt="Objective-C" src="https://img.shields.io/badge/-Objective C-468EE6?style=flat&logo=apple&logoColor=white"></a>
+  <a href="https://www.python.org/">
+  <img style="height:22px" alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=FFD43B"></a>
+  <a href="https://git-scm.com/">
+  <img style="height:22px" alt="Git" src="https://img.shields.io/badge/-Git-white?style=flat&logo=git&logoColor=FF7802"></a>
+  <a href="https://firebase.google.com/">
+  <img style="height:22px" alt="Firebase" src="https://img.shields.io/badge/-Firebase-white?style=flat&logo=Firebase&logoColor=F6820D"></a>
+  <img style="height:22px" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-white?style=flat&logo=google-cloud&logoColor=yellow"/>
+  <img style="height:22px" alt="Java" src="https://img.shields.io/badge/-Java-white?style=flat&logo=java&logoColor=red"/>
+  <img style="height:22px" alt="C" src="https://img.shields.io/badge/-C-white?style=flat&logo=c&logoColor=A8B9CC"/>
+  <img style="height:22px" alt="Figma" src="https://img.shields.io/badge/-Figma-white?style=flat&logo=figma&logoColor=F24E1E"/>
+  <img style="height:22px" alt="Realm" src="https://img.shields.io/badge/-Realm-white?style=flat&logo=realm&logoColor=39477F"/>
+  <img style="height:22px" alt="Slack" src="https://img.shields.io/badge/-Slack-white?style=flat&logo=slack&logoColor=4A154B"/>
+  <img style="height:22px" alt="CocoaPods" src="https://img.shields.io/badge/-CocoaPods-white?style=flat&logo=CocoaPods&logoColor=EE3322"/>
+  <img style="height:22px" alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-white?style=flat&logo=WebRTC&logoColor=333333"/>
+  <img style="height:22px" alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-white?style=flat&logo=Socket.io&logoColor=010101"/>
+  <img style="height:22px" alt="openCV" src="https://img.shields.io/badge/-OpenCV-white?style=flat&logo=openCV&logoColor=5C3EE8"/>
+</p>
+
+
+<img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenchewei&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978">
+
+*NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.*
+
+---
+## Fantastic geeks and where to find them
+
+- e-mail: gunattack1120@gmail.com
+- Discord: ParanoidLurker#4871
+- LinkDin
+
+
+<h3>Fantastic geeks and where to find them</h3>
+<p>
+  <a href="https://www.google.com/intl/zh-TW/gmail/about/">
+  <img style="height:30px" alt="Gmail" src="https://img.shields.io/badge/-gunattack1120@gmail.com-C4C4C4?style=flat&logo=gmail&logoColor=#EA4335"/></a><br>
+  <a href="https://discord.com/">
+  <img style="height:30px" alt="Discord" src="https://img.shields.io/badge/-ParanoidLurker4871-C4C4C4?style=flat&logo=discord&logoColor=##5865F2"/></a><br>
+  
+  
+  <a href="https://www.linkedin.com/in/%E5%93%B2%E5%81%89-%E9%99%B3-3a749b235/">
+  <img style="height:30px" alt="Linkedin" src="https://img.shields.io/badge/-陳哲偉-C4C4C4?style=flat&logo=Linkedin&logoColor=##0A66C2"/></a>
+</p>
