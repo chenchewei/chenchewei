@@ -75,21 +75,16 @@ I've developed an app with over 167k users across 200+ countries. <br>
 *NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.*
 
 ---
-## Fantastic geeks and where to find them
-
-- e-mail: gunattack1120@gmail.com
-- Discord: ParanoidLurker#4871
-- LinkDin
-
 
 <h3>Fantastic geeks and where to find them</h3>
 <p>
   <a href="https://www.google.com/intl/zh-TW/gmail/about/">
   <img style="height:30px" alt="Gmail" src="https://img.shields.io/badge/-gunattack1120@gmail.com-C4C4C4?style=flat&logo=gmail&logoColor=#EA4335"/></a><br>
   <a href="https://discord.com/">
-  <img style="height:30px" alt="Discord" src="https://img.shields.io/badge/-ParanoidLurker4871-C4C4C4?style=flat&logo=discord&logoColor=##5865F2"/></a><br>
-  
+  <img style="height:30px" alt="Discord" src="https://img.shields.io/badge/-ParanoidLurker%234871-C4C4C4?style=flat&logo=discord&logoColor=#5865F2"/></a><br>
+  <a href="https://github.com/chenchewei">
+  <img style="height:30px" alt="GitHub" src="https://img.shields.io/badge/-chenchewei-C4C4C4?style=flat&logo=GitHub&logoColor=#181717"/></a><br>
   
   <a href="https://www.linkedin.com/in/%E5%93%B2%E5%81%89-%E9%99%B3-3a749b235/">
-  <img style="height:30px" alt="Linkedin" src="https://img.shields.io/badge/-陳哲偉-C4C4C4?style=flat&logo=Linkedin&logoColor=##0A66C2"/></a>
+  <img style="height:30px" alt="Linkedin" src="https://img.shields.io/badge/-陳哲偉-C4C4C4?style=flat&logo=Linkedin&logoColor=#0A66C2"/></a>
 </p>
