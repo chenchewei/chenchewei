@@ -69,14 +69,22 @@ I've developed an app with over 167k users across 200+ countries. <br>
   <img style="height:22px" alt="openCV" src="https://img.shields.io/badge/-OpenCV-white?style=flat&logo=openCV&logoColor=5C3EE8"/>
 </p>
 
-
-<img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenchewei&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978">
-
-*NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.*
+<p>
+<img width=40% align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenchewei&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978">
+  <br>
+  <br>
+  <br>
+  *NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.*
+</p>
+<br>
 
 ---
 
 <h3>Fantastic geeks and where to find them</h3>
+<p>
+  <img width="250px" height="200px" align='left' src="https://user-images.githubusercontent.com/62243142/162426113-19b0d910-9f31-44a9-a446-13e4b1c5831f.gif">
+</p>
+
 <p>
   <a href="https://www.google.com/intl/zh-TW/gmail/about/">
   <img style="height:30px" alt="Gmail" src="https://img.shields.io/badge/-gunattack1120@gmail.com-C4C4C4?style=flat&logo=gmail&logoColor=#EA4335"/></a><br>
