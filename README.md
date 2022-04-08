@@ -48,11 +48,11 @@ I've developed an app with over 167k users across 200+ countries. <br>
 <h3>Skills I have</h3>
 <p>
   <a href="https://forums.swift.org/">
-  <img style="height:22px" alt="Swift" src="https://img.shields.io/badge/-Swift-FF7802?style=flat&logo=swift&logoColor=white"></a>
+  <img style="height:22px" alt="Swift" src="https://img.shields.io/badge/-Swift-white?style=flat&logo=swift&logoColor=FF7802"></a>
   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html">
-  <img style="height:22px" alt="Objective-C" src="https://img.shields.io/badge/-Objective C-468EE6?style=flat&logo=apple&logoColor=white"></a>
+  <img style="height:22px" alt="Objective-C" src="https://img.shields.io/badge/-Objective C-white?style=flat&logo=apple&logoColor=468EE6"></a>
   <a href="https://www.python.org/">
-  <img style="height:22px" alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=FFD43B"></a>
+  <img style="height:22px" alt="Python" src="https://img.shields.io/badge/-Python-white?style=flat&logo=python&logoColor=306998"></a>
   <a href="https://git-scm.com/">
   <img style="height:22px" alt="Git" src="https://img.shields.io/badge/-Git-white?style=flat&logo=git&logoColor=FF7802"></a>
   <a href="https://firebase.google.com/">
