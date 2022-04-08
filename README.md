@@ -7,7 +7,7 @@
 
 ## A wild developer appears!
 
-- Chen Che Wei, a software engineer who specializes in **iOS**.
+- Chen Che Wei, also goes by the name Anderson, is a software engineer who specializes in **iOS**.
 - A witted and detail-oriented type perfectionist.
 
 
@@ -16,3 +16,4 @@
 ---
 ![](https://github-readme-stats.vercel.app/api?username=chenchewei&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,243949,23272D)
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chenchewei&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
