@@ -36,7 +36,12 @@ I've developed an app with over 167k users across 200+ countries. <br>
     <img width=48% src="http://github-readme-streak-stats.herokuapp.com?user=chenchewei&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
     <img width=48% src="https://github-readme-stats.vercel.app/api?username=chenchewei&include_all_commits=true&count_private=true&title_color=8CCEFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,231557,44107A">
   </a>
+  <img width=85% src="https://github-profile-trophy.vercel.app/?username=chenchewei&row=1&theme=onedark&no-bg=true&no-frame=true">
 </div>
+
+
+
+
 
 <p align="center">
     <img width="125px" src="https://komarev.com/ghpvc/?username=chenchewei&style=plastic"/>
