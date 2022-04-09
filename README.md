@@ -53,25 +53,25 @@ I've developed an app with over 167k users across 200+ countries. <br>
 <h3>Skills I have</h3>
 <p>
   <a href="https://forums.swift.org/">
-  <img style="height:22px" alt="Swift" src="https://img.shields.io/badge/-Swift-white?style=flat&logo=swift&logoColor=FF7802"></a>
+  <img style="height:22px" alt="Swift" src="https://img.shields.io/badge/-Swift-C4C4C4?style=flat&logo=swift&logoColor=FF7802"></a>
   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html">
-  <img style="height:22px" alt="Objective-C" src="https://img.shields.io/badge/-Objective C-white?style=flat&logo=apple&logoColor=468EE6"></a>
+  <img style="height:22px" alt="Objective-C" src="https://img.shields.io/badge/-Objective C-C4C4C4?style=flat&logo=apple&logoColor=468EE6"></a>
   <a href="https://www.python.org/">
-  <img style="height:22px" alt="Python" src="https://img.shields.io/badge/-Python-white?style=flat&logo=python&logoColor=306998"></a>
+  <img style="height:22px" alt="Python" src="https://img.shields.io/badge/-Python-C4C4C4?style=flat&logo=python&logoColor=306998"></a>
   <a href="https://git-scm.com/">
-  <img style="height:22px" alt="Git" src="https://img.shields.io/badge/-Git-white?style=flat&logo=git&logoColor=FF7802"></a>
+  <img style="height:22px" alt="Git" src="https://img.shields.io/badge/-Git-C4C4C4?style=flat&logo=git&logoColor=FF7802"></a>
   <a href="https://firebase.google.com/">
-  <img style="height:22px" alt="Firebase" src="https://img.shields.io/badge/-Firebase-white?style=flat&logo=Firebase&logoColor=F6820D"></a>
-  <img style="height:22px" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-white?style=flat&logo=google-cloud&logoColor=yellow"/>
-  <img style="height:22px" alt="Java" src="https://img.shields.io/badge/-Java-white?style=flat&logo=java&logoColor=red"/>
-  <img style="height:22px" alt="C" src="https://img.shields.io/badge/-C-white?style=flat&logo=c&logoColor=A8B9CC"/>
-  <img style="height:22px" alt="Figma" src="https://img.shields.io/badge/-Figma-white?style=flat&logo=figma&logoColor=F24E1E"/>
-  <img style="height:22px" alt="Realm" src="https://img.shields.io/badge/-Realm-white?style=flat&logo=realm&logoColor=39477F"/>
-  <img style="height:22px" alt="Slack" src="https://img.shields.io/badge/-Slack-white?style=flat&logo=slack&logoColor=4A154B"/>
-  <img style="height:22px" alt="CocoaPods" src="https://img.shields.io/badge/-CocoaPods-white?style=flat&logo=CocoaPods&logoColor=EE3322"/>
-  <img style="height:22px" alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-white?style=flat&logo=WebRTC&logoColor=333333"/>
-  <img style="height:22px" alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-white?style=flat&logo=Socket.io&logoColor=010101"/>
-  <img style="height:22px" alt="openCV" src="https://img.shields.io/badge/-OpenCV-white?style=flat&logo=openCV&logoColor=5C3EE8"/>
+  <img style="height:22px" alt="Firebase" src="https://img.shields.io/badge/-Firebase-C4C4C4?style=flat&logo=Firebase&logoColor=F6820D"></a>
+  <img style="height:22px" alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-C4C4C4?style=flat&logo=google-cloud&logoColor=yellow"/>
+  <img style="height:22px" alt="Java" src="https://img.shields.io/badge/-Java-C4C4C4?style=flat&logo=java&logoColor=red"/>
+  <img style="height:22px" alt="C" src="https://img.shields.io/badge/-C-C4C4C4?style=flat&logo=c&logoColor=A8B9CC"/>
+  <img style="height:22px" alt="Figma" src="https://img.shields.io/badge/-Figma-C4C4C4?style=flat&logo=figma&logoColor=F24E1E"/>
+  <img style="height:22px" alt="Realm" src="https://img.shields.io/badge/-Realm-C4C4C4?style=flat&logo=realm&logoColor=39477F"/>
+  <img style="height:22px" alt="Slack" src="https://img.shields.io/badge/-Slack-C4C4C4?style=flat&logo=slack&logoColor=4A154B"/>
+  <img style="height:22px" alt="CocoaPods" src="https://img.shields.io/badge/-CocoaPods-C4C4C4?style=flat&logo=CocoaPods&logoColor=EE3322"/>
+  <img style="height:22px" alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-C4C4C4?style=flat&logo=WebRTC&logoColor=333333"/>
+  <img style="height:22px" alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-C4C4C4?style=flat&logo=Socket.io&logoColor=010101"/>
+  <img style="height:22px" alt="openCV" src="https://img.shields.io/badge/-OpenCV-C4C4C4?style=flat&logo=openCV&logoColor=5C3EE8"/>
 </p>
 
 <p>
@@ -98,8 +98,8 @@ I've developed an app with over 167k users across 200+ countries. <br>
   <a href="https://twitter.com/CheWeiChen">
   <img style="height:30px" alt="Twitter" src="https://img.shields.io/badge/-@CheWeiChen-C4C4C4?style=flat&logo=Twitter&logoColor=1DA1F2"/></a><br>
   <a href="https://github.com/chenchewei">
-  <img style="height:30px" alt="GitHub" src="https://img.shields.io/badge/-chenchewei-C4C4C4?style=flat&logo=GitHub&logoColor=#181717"/></a><br>
+  <img style="height:30px" alt="GitHub" src="https://img.shields.io/badge/-chenchewei-C4C4C4?style=flat&logo=GitHub&logoColor=181717"/></a><br>
   
   <a href="https://www.linkedin.com/in/%E5%93%B2%E5%81%89-%E9%99%B3-3a749b235/">
-  <img style="height:30px" alt="Linkedin" src="https://img.shields.io/badge/-陳哲偉-C4C4C4?style=flat&logo=Linkedin&logoColor=#0A66C2"/></a>
+  <img style="height:30px" alt="Linkedin" src="https://img.shields.io/badge/-陳哲偉-C4C4C4?style=flat&logo=Linkedin&logoColor=0A66C2"/></a>
 </p>
