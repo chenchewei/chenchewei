@@ -92,7 +92,7 @@ I've developed an app with over 167k users across 200+ countries. <br>
 
 <h3>Fantastic geeks and where to find them</h3>
 <p>
-  <img width="250px" height="200px" align='left' src="https://user-images.githubusercontent.com/62243142/162426113-19b0d910-9f31-44a9-a446-13e4b1c5831f.gif">
+  <img width="250px" height="200px" align='right' src="https://user-images.githubusercontent.com/62243142/162426113-19b0d910-9f31-44a9-a446-13e4b1c5831f.gif">
 </p>
 
 <p>
