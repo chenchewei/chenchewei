@@ -75,13 +75,18 @@ I've developed an app with over 167k users across 200+ countries. <br>
 </p>
 
 <p>
-<img width=40% align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenchewei&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978">
+  <img width=45% align='left' src="https://leetcode.card.workers.dev/chenchewei?theme=forest&font=source_code_pro&extension=null">
+  <img width=45% align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenchewei&layout=compact&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&border_radius=15&icon_color=FFFFFF&bg_color=FFFFFF,3F51B1,5A55AE,7B5FAC,8F6AAE,A86AA4,CC6B8E,F18271,F3A469,F7C978">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
   <br>
   <br>
   <br>
   *NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.*
 </p>
-<br>
 
 ---
 
