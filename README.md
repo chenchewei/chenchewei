@@ -97,7 +97,7 @@ I've developed an app with over 167k users across 200+ countries. <br>
 
 <p>
   <a href="https://www.google.com/intl/zh-TW/gmail/about/">
-  <img style="height:30px" alt="Gmail" src="https://img.shields.io/badge/-gunattack1120@gmail.com-C4C4C4?style=flat&logo=gmail&logoColor=EA4335"/></a><br>
+  <img style="height:30px" alt="Gmail" src="https://img.shields.io/badge/-c.w.chen1997@gmail.com-C4C4C4?style=flat&logo=gmail&logoColor=EA4335"/></a><br>
   <a href="https://discord.com/">
   <img style="height:30px" alt="Discord" src="https://img.shields.io/badge/-ParanoidLurker%234871-C4C4C4?style=flat&logo=discord&logoColor=5865F2"/></a><br>
   <a href="https://twitter.com/CheWeiChen">
