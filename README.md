@@ -104,7 +104,11 @@ I've developed an app with over 167k users across 200+ countries. <br>
   <img style="height:30px" alt="Twitter" src="https://img.shields.io/badge/-@CheWeiChen-C4C4C4?style=flat&logo=Twitter&logoColor=1DA1F2"/></a><br>
   <a href="https://github.com/chenchewei">
   <img style="height:30px" alt="GitHub" src="https://img.shields.io/badge/-chenchewei-C4C4C4?style=flat&logo=GitHub&logoColor=181717"/></a><br>
-  
-  <a href="https://www.linkedin.com/in/%E5%93%B2%E5%81%89-%E9%99%B3-3a749b235/">
+  <a href="https://medium.com/@chenchewei">
+  <img style="height:30px" alt="Medium" src="https://img.shields.io/badge/-Anderson-C4C4C4?style=flat&logo=Medium&logoColor=000000"/></a>
+  <br>
+  <a href="https://www.linkedin.com/in/cwchen1997/">
   <img style="height:30px" alt="Linkedin" src="https://img.shields.io/badge/-陳哲偉-C4C4C4?style=flat&logo=Linkedin&logoColor=0A66C2"/></a>
+  
+  
 </p>
